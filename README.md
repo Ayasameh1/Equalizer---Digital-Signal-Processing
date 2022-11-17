@@ -4,14 +4,18 @@
 #### Python app using Streamlit for adjusting frequencies in audio wav files and csv.
  
 ## Description
-This app allows the user to :
-- Add 
+Our equalizer allows the user to:
+- Add .wav audio file and changing each frequency power in the default mode
+- Add a music file and controlling the 
 
  
  
  This app has 5 modes :
- 1. default
- 
+ 1. Default
+ 2. Voice changer
+ 3. Vowels equalizer
+ 4. Music equalizer
+ 5. Medical (controlling arrhythmia in an ECG signal)
  
  
  ## Dependencies
